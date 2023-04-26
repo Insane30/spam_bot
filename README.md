@@ -1,2 +1,2 @@
 # spam_bot
-Use this to annoy your friends (if you have em)
+Use this to annoy your frienss (if you have one)
